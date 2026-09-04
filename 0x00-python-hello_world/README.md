@@ -11,13 +11,13 @@ Below are the files to find in this directory
 [0-run](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x00-python-hello_world/0-run)
 <details>
     <summary>Learn More</summary>
-This is a bash script that run python file saved in PYFILE variable
+<p>This is a bash script that run python file saved in PYFILE variable</p>
 </details>
 
 [1-run_inline](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x00-python-hello_world/1-run_inline)
 <details>
     <summary>Learn More</summary>
-Contains bash script to run an inline code of python. Code saved in PYCODE variable
+<p>Contains bash script to run an inline code of python. Code saved in PYCODE variable</p>
 </details>
 
 [2-print.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x00-python-hello_world/2-print.py)
@@ -43,7 +43,7 @@ Contains bash script to run an inline code of python. Code saved in PYCODE varia
 [5-print_string.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x00-python-hello_world/5-print_string.py)
 <details>
     <summary>Learn More</summary>
-<p>Print string multiple times using operator; '*'</p>
+<p>Print string multiple times using operator: * </p>
 </details>
 
 [6-concat.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x00-python-hello_world/6-concat.py)
@@ -72,12 +72,12 @@ Contains bash script to run an inline code of python. Code saved in PYCODE varia
 
 ---
 > [!NOTE]
-> _This is a C code source file that print to the stdout, not a complete program_
+> _This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
 
 > [!TIP]
-> Use command below to  compile code
+> Use command below to run code
 ```bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <name_of_file>
+./<name_of_file>
 ```
 > [!CAUTION]
 > After running the command above, it create a new executable file 'a.out' in your present path if not already existed.
