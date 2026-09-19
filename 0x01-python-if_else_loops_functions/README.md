@@ -30,7 +30,7 @@ This file contains a program that generate a random numver from -10 to 10 and pr
 [1-last_digit.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/1-last_digit.py)
 <details>
     <summary>Learn More</summary>
-This file contains a program that generate a random numver from -1000 to 1000, check, and  print if the last digit of the number is greater than 5, less than 5, or zero.
+This file contains a program that generate a random numver from -10000 to 10000, check, and  print if the last digit of the number is greater than 5, less than 5, or zero.
 </details>
 > [!NOTE]
 > This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
