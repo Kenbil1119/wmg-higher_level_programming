@@ -21,23 +21,27 @@ __control flow statements__ (Conditional statements): `if`, `elif`, and `else` a
 
 Below are the files to find in this directory
 
-### Code
+### File
 [0-posituve_or_negative.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/0-positive_or_negative.py)
 <details>
     <summary>Learn More</summary>
 This file contains a program that generate a random numver from -10 to 10 and print if the number is positive, negative, or zero
 </details>
-
+[1-last_digit.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/1-last_digit.py)
+<details>
+    <summary>Learn More</summary>
+This file contains a program that generate a random numver from -1000 to 1000, check, and  print if the last digit of the number is greater than 5, less than 5, or zero.
+</details>
 > [!NOTE]
-> _This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
+> This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
 
 > [!TIP]
 > Use command below to run code
 ```bash
-./<name_of_file>
+./<file_name> || python3 <file_name>
 ```
 > [!CAUTION]
-> After running the command above, it create a new executable file 'a.out' in your present path if not already existed.
-> Any previous compilation will be override.
+> No file or program in this directory causes any changes to the working machine or environment. All files were tested and executed.
+> This directory is not created for plagiarism or cheating conduction, only meant for educational purpose
 ---
 Author: [Usman Saheed (kenbil)](https://www.github.com/kenbil1119)
