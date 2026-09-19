@@ -32,6 +32,26 @@ This file contains a program that generate a random numver from -10 to 10 and pr
     <summary>Learn More</summary>
 This file contains a program that generate a random numver from -10000 to 10000, check, and  print if the last digit of the number is greater than 5, less than 5, or zero.
 </details>
+[2-print_alphabet.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/2-print_alphabet.py)
+<details>
+    <summary>Learn More</summary>
+Print small letter alphabet (a - z) using ASCII representation.
+</details>
+[3-print_alphabt.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/3-print_alphabt.py)
+<details>
+    <summary>Learn More</summary>
+Print alphabet using ASCII representation, except 'e' and 'q'.
+</details>
+[4-print_hexa.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/4-print_hexa.py)
+<details>
+    <summary>Learn More</summary>
+Print number from 0 - 98 in decimal and hexa-decimal.
+</details>
+[5-print_comb2.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/5-print_comb2.py)
+<details>
+    <summary>Learn More</summary>
+Print number from 0 - 99 in two fields (00) separated with ', '.
+</details>
 > [!NOTE]
 > This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
 
