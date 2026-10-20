@@ -1,5 +1,5 @@
 # 0X01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS
-This directory contains **Python**, **C**, and **Bash** script codes, demostrating:
+This directory contains __Python__, __C__, and **Bash** script codes, demostrating:
 - Why indentation is so important in Python when using
 __control flow statements__ (Conditional statements): `if`, `elif`, and `else` and (Iteration statememts): `while` and `for`
 - How to use comments
